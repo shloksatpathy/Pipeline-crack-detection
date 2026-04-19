@@ -1,0 +1,11 @@
+dataset/
+venv
+
+#----virtual envromnet--------
+venv
+venv/
+env
+.venv/
+.env
+
+*.csv 
