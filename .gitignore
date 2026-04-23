@@ -1,5 +1,6 @@
 dataset/
 venv
+industrial_defect_dataset/
 
 #----virtual envromnet--------
 venv
@@ -9,3 +10,5 @@ env
 .env
 
 *.csv 
+
+
