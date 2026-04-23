@@ -187,7 +187,9 @@ Trained weights are saved to `runs/detect/pipeline_defect_model/weights/`.
 
 ## License
 
-This project is for **educational and research purposes**. The Roboflow dataset component is under a **Private** license as specified by Roboflow.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+> **Note:** The supplementary Roboflow dataset component is under a separate **Private** license as specified by Roboflow.
 
 ---
 
