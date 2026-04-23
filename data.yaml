@@ -1,0 +1,5 @@
+train: F:\Pipeline crack detection\dataset\images\train
+val: F:\Pipeline crack detection\dataset\images\val
+
+nc: 5
+names: ["crack", "hole", "rust", "scratch", "normal"]
