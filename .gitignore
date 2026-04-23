@@ -8,6 +8,9 @@ venv/
 env
 .venv/
 .env
+yoloenv/
+.yoloenv/
+.yoloenv
 
 *.csv 
 *.pt
